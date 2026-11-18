@@ -1,19 +1,13 @@
-# IPSC Canada Nationals New Brunswick Website
+# 2027 IPSC Canada Nationals — Website
 
-Static one-page website starter.
+Updated for July 26–August 1, 2027 at Restigouche County Sports & Gun Club Association Inc.,
+1237 Drapeau Road, Balmoral Sud, New Brunswick.
 
-## Edit these first
-- `index.html`: change dates, location, PractiScore links, hotels, sponsors, contact email.
-- `assets/hero.png`: replace with final approved hero image if needed.
-- `script.js`: update countdown target date.
+## Upload to GitHub Pages
+Upload the CONTENTS of this folder (index.html, styles.css, script.js, assets/)
+to the root of the `IPSCNB/ipsc-canada-nationals-2027` repository, replacing existing files.
+Commit the changes; GitHub Pages will redeploy automatically.
 
-## Publish on GitHub Pages
-1. Create a new GitHub repo.
-2. Upload these files.
-3. Go to Settings → Pages.
-4. Source: Deploy from branch.
-5. Branch: main, folder: /root.
-6. Save.
-
-## Custom domain
-Add your domain under Settings → Pages → Custom domain.
+The new background is `assets/hero-clean.png` and contains no headline text.
+Hotels are suggestions, not confirmed booking partners. Registration and banquet
+details are intentionally marked pending. No shoot-offs are advertised.

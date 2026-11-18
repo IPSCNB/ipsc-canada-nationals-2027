@@ -6,3 +6,5 @@
 .hero { min-height: 760px; }
 .pending-link { display: inline-block; padding: 10px 0; color: #aaa; font-weight: 700; }
 .map-card a { color: #fff; font-weight: 800; text-decoration: underline; text-underline-offset: 5px; }
+
+.hotel-link{display:inline-block;margin-top:14px;color:#fff;background:#b81f2d;border-radius:6px;padding:11px 15px;text-decoration:none;font-weight:700}.hotel-link:hover{background:#e13242}.hotel-disclaimer{margin-top:18px;opacity:.8;font-size:.9rem}

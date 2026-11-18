@@ -11,3 +11,6 @@ Commit the changes; GitHub Pages will redeploy automatically.
 The new background is `assets/hero-clean.png` and contains no headline text.
 Hotels are suggestions, not confirmed booking partners. Registration and banquet
 details are intentionally marked pending. No shoot-offs are advertised.
+
+## Accommodation update
+Six linked accommodation listings added for Dalhousie and Campbellton. Match director: Jason McIntyre.

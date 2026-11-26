@@ -1,16 +1,2 @@
-# 2027 IPSC Canada Nationals — Website
-
-Updated for July 26–August 1, 2027 at Restigouche County Sports & Gun Club Association Inc.,
-1237 Drapeau Road, Balmoral Sud, New Brunswick.
-
-## Upload to GitHub Pages
-Upload the CONTENTS of this folder (index.html, styles.css, script.js, assets/)
-to the root of the `IPSCNB/ipsc-canada-nationals-2027` repository, replacing existing files.
-Commit the changes; GitHub Pages will redeploy automatically.
-
-The new background is `assets/hero-clean.png` and contains no headline text.
-Hotels are suggestions, not confirmed booking partners. Registration and banquet
-details are intentionally marked pending. No shoot-offs are advertised.
-
-## Accommodation update
-Six linked accommodation listings added for Dalhousie and Campbellton. Match director: Jason McIntyre.
+2027 Nationals website refresh
+Upload all files and the assets folder to the root of IPSCNB/ipsc-canada-nationals-2027. Preserve any existing CNAME file and GitHub Pages settings. Commit changes. The countdown uses midnight Atlantic daylight time on July 26, not a registration opening date. Invitation is marked draft pending approval. Hotel links are carried forward from the previous version and have not been reverified. No live registration or sponsorship package yet.

@@ -30,3 +30,5 @@ function updateCountdown(){
 }
 updateCountdown();
 setInterval(updateCountdown, 1000);
+menuBtn?.addEventListener('click',()=>menuBtn.setAttribute('aria-expanded',String(nav.classList.contains('open'))));
+nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>menuBtn?.setAttribute('aria-expanded','false')));
